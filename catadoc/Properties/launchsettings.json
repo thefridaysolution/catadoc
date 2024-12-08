@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "catadoc (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "catadoc (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
